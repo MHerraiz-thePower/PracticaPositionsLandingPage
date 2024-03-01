@@ -1,0 +1,87 @@
+html {
+  color: lightgreen;
+}
+
+body {
+  background-color: black;
+}
+
+header {
+  padding-left: 10px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: lightgreen;
+}
+
+.content {
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 0px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: lightgreen;
+}
+
+.caja {
+  position: relative;
+  left: 92%;
+  width: 150px;
+  height: auto;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  margin-top: 20px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: lightgreen;
+}
+
+h3 {
+  position: relative;
+  left: 22%;
+}
+
+.sidebar {
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 0px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: lightgreen;
+}
+
+.features {
+  position: relative;
+  text-align: center;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 200px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: lightgreen;
+}
+
+.feature {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  margin-top: 20px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: lightgreen;
+}
